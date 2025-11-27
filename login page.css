@@ -1,0 +1,22 @@
+.textalign{
+    text-align: center;
+
+    background-color: rgb(39, 123, 207);
+    background-image: url("C:\Users\Shalin SR\Pictures\1392028-download-dark-background-images-3840x2160-for-android-50.jpg");
+    position: relative;
+    margin: auto;
+    /* border-radius: 50px; */
+    
+}
+.border{
+    /* border: solid 1px; */
+    text-decoration: none;
+    list-style: none;
+ display: block;
+}
+input#distance{
+    margin: 10px;
+}
+input#distance{
+    border-radius: 5px;
+}

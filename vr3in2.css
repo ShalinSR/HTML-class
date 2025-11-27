@@ -1,0 +1,11 @@
+h1.newversions{
+    color: brown;
+    text-align: center;
+   /* border: solid 1px black; */
+    /* border-radius: 5px; */
+    border-bottom: solid 1px black;
+
+}
+img.insta{
+   image-rendering: crisp-edges;
+}

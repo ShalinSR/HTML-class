@@ -1,0 +1,26 @@
+h1.colors{
+color: #FFDF20;
+/* border: solid black 5px; */
+border-radius: 5px;
+border-bottom: solid;
+text-align: center;
+
+}
+a.click{
+    color: blue;
+}
+a:link{
+    color: rgb(56, 15, 150);
+}
+a:hover{
+    color: #750505;
+}
+ul.unorderlist{
+    /* text-decoration: none; */
+    list-style: none;
+    display: flex;
+    /* direction: inherit; */
+}
+li{
+    margin: 10px;
+}

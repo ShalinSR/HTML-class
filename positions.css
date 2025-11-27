@@ -1,0 +1,11 @@
+.position{
+    background-color: brown;
+   width: 200px;
+   height: 200px;
+   /* position: relative; */
+   /* left: 500px; */
+   /* margin:0 auto; */
+margin: auto;
+position: relative;
+top: 100px;
+}
